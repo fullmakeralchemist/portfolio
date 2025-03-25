@@ -16,7 +16,7 @@ CERTIFICATES = {
     "🏆 Advanced Data Science Bootcamp": "certificates/CV.pdf",
     "🏆 Edx Analyzing Data with Excel": "certificates/CV.pdf",
     "🏆 Open Data and Civic Hacking Course": "certificates/CV.pdf",
-    "🏆 Azure AI-900": "certificates/CV.pdf",
+    "🏆 Azure AI-900": "certificates/AI900.pdf",
     "🏆 WOBI in leadership Medellín, Colombia": "certificates/CV.pdf",
     #"🏆 Data Science Bootcamp": "assets/CV.pdf",
     #"🏆 Data Science Bootcamp": "assets/CV.pdf",

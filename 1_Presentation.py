@@ -9,7 +9,7 @@ resume_file = current_dir / "assets" / "CV2025.pdf"
 profile_pic = current_dir / "assets" / "profile-pic.png"
 
 # --- GENERAL SETTINGS ---
-PAGE_TITLE = "Digital CV | Eduardo Padron"
+PAGE_TITLE = "Digital Resume | Eduardo Padron"
 PAGE_ICON = ":wave:"
 NAME = "Eduardo Padron"
 DESCRIPTION = """
