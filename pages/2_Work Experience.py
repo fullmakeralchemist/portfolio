@@ -56,7 +56,7 @@ st.write(
 
 # Achievements mapped to PDF filenames
 VOL1 = {
-    "🏆 Junior ML Engineer Omdena - Dryad Certificate": "certificates/CV.pdf",
+    "🏆 Junior ML Engineer Omdena - Dryad Certificate": "certificates/Omdena Certificate_Eduardo Padron.pdf",
     #"🏆 Electronics with art workshop for kids at OSHWDem by Bricolabs (Spain)": "assets/CV.pdf",
     #"🏆 Python Advanced Bootcamp": "assets/CV.pdf",
     #"🏆 Data Science Bootcamp": "assets/CV.pdf",

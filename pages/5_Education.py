@@ -63,6 +63,7 @@ st.write(
 - ► Created 3D printing tools and fixtures to reduce costs and enable scalability.
 """
 )
+#meterle el certificado
 
 # --- SKILLS ---
 st.write('\n')

@@ -8,16 +8,16 @@ st.set_page_config(page_title=PAGE_TITLE, page_icon=PAGE_ICON)
 
 # Achievements mapped to PDF filenames
 CERTIFICATES = {
-    "🏆 English C1 TOEFL ITP ": "certificates/CV.pdf",
-    "🏆 Data Analysis Bootcamp": "certificates/CV.pdf",
-    "🏆 Python Advanced Bootcamp": "certificates/CV.pdf",
-    "🏆 Python Course": "certificates/CV.pdf",
-    "🏆 Data Science Bootcamp": "certificates/CV.pdf",
-    "🏆 Advanced Data Science Bootcamp": "certificates/CV.pdf",
-    "🏆 Edx Analyzing Data with Excel": "certificates/CV.pdf",
-    "🏆 Open Data and Civic Hacking Course": "certificates/CV.pdf",
+    "🏆 English C1 TOEFL ITP ": "certificates/TOEFL.pdf",
+    "🏆 Data Analysis Bootcamp": "certificates/Certificado - Bootcamp de Análisis de Datos.pdf",
+    "🏆 Python Advanced Bootcamp": "certificates/Certificado - Bootcamp de Python Avanzado.pdf",
+    "🏆 Python Course": "certificates/PythonCodigoFacilito.pdf",
+    "🏆 Data Science Bootcamp": "certificates/Jose Eduardo Padron Ramirez BCD.pdf",
+    "🏆 Advanced Data Science Bootcamp": "certificates/Jose Eduardo Padron Ramirez BCDA.pdf",
+    "🏆 Edx Analyzing Data with Excel": "certificates/edx_excel.pdf",
+    "🏆 Open Data and Civic Hacking Course": "certificates/LABLEON_DATOSABIERTOS_RECONOCIMIENTO.pdf",
     "🏆 Azure AI-900": "certificates/AI900.pdf",
-    "🏆 WOBI in leadership Medellín, Colombia": "certificates/CV.pdf",
+    "🏆 WOBI in leadership Medellín, Colombia": "certificates/WOBI Certificado José Padrón.pdf",
     #"🏆 Data Science Bootcamp": "assets/CV.pdf",
     #"🏆 Data Science Bootcamp": "assets/CV.pdf",
 }
