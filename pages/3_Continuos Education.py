@@ -9,6 +9,7 @@ st.set_page_config(page_title=PAGE_TITLE, page_icon=PAGE_ICON)
 # Achievements mapped to PDF filenames
 CERTIFICATES = {
     "🏆 English C1 TOEFL ITP ": "certificates/TOEFL.pdf",
+    "🏆 Data Engineering Bootcamp": "certificates/Jose Eduardo Padron Ramirez BID.pdf",
     "🏆 Data Analysis Bootcamp": "certificates/Certificado - Bootcamp de Análisis de Datos.pdf",
     "🏆 Python Advanced Bootcamp": "certificates/Certificado - Bootcamp de Python Avanzado.pdf",
     "🏆 Python Course": "certificates/PythonCodigoFacilito.pdf",
