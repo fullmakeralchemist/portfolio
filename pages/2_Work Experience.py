@@ -30,6 +30,8 @@ st.write("🚧", "**Data Manager (Data Analyst) | City Cancer Challenge**")
 st.write("08/2021 - 06/2023")
 st.write(
     """
+- ► Implemented ML model testing and tracking using MLflow, optimizing a multi-input patient data pipeline for predictive and classification models, ensuring reliability and scalability.
+- ► Developed and deployed an MLOps pipeline using MLflow, streamlining model testing, tracking, and deployment for predictive and classification models on multi-input patient data.
 - ► Monitor quality of needs assessment data inputted using pre-defined indicators.
 - ► Support development of needs assessment summary reports and analytics using C/Can data platform.
 - ► Facilitate discussions around data management and analysis with local stakeholders.

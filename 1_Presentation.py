@@ -83,7 +83,7 @@ st.write(
 - 👩‍💻 Programming: Python (Pandas, Pyspark), SQL
 - 📊 Data Visulization: Power Bi, Streamlit, Plotly
 - ⚙️ Data Engineering & Cloud Tools: AWS Glue, Lambda, AppFlow, Transfer Family, SageMaker, Textract, Personalize and more
-- 🤖 ML & Prototyping: Classification models and computer vision in Python with Raspberry Pi & Arduino integrations
+- 🤖 ML & Prototyping: ML Ops Pipeline workflow, Classification models and computer vision in Python with Raspberry Pi & Arduino integrations
 - 🗄️ Databases: PostgreSQL, MariaDB, MySQL, Redshift, Athena
 """
 )
