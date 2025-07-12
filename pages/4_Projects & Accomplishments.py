@@ -58,18 +58,21 @@ st.write("---")
 for project, link in ACHIVEMENTS.items():
     st.write(f"[{project}]({link})")
 """
-# Display accomplishments
+# --- ACCOMPLISHMENTS SECTION ---
 st.write('\n')
 st.subheader("Accomplishments")
 st.write("---")
 for title, resource in ACHIEVEMENTS.items():
     if resource.endswith(".pdf") or Path(resource).suffix == ".pdf":
-        with open(resource, "rb") as file:
-            st.download_button(
-                label=title,
-                data=file,
-                file_name=Path(resource).name,
-                mime="application/pdf"
-            )
+        try:
+            with open(resource, "rb") as file:
+                st.download_button(
+                    label=f"📄 {title}",
+                    data=file,
+                    file_name=Path(resource).name,
+                    mime="application/pdf"
+                )
+        except FileNotFoundError:
+            st.error(f"❌ File not found: {resource}")
     else:
-        st.write(f"[{title}]({resource})")
+        st.markdown(f"- [{title}]({resource})")
