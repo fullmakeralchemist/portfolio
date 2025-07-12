@@ -72,7 +72,7 @@ st.write(
     """
 - 👩‍💻 -Comtemporary issues in water resouces U.S - Mexico water, food energy nexus. Texas A&M University/University of Guanajuato. (2017). 
 - 📊 U.S.-Mexico bidirectional study abroad program in water supported by 100,000 strong in America´s. Gateway Community College/University of Guanajuato.(2017). 
-- ⚙️ -2nd International workshop on hydrologic and hydrogeochemical processes in inter-montane Basins. Texas A&M University, College Station, Texas, EE. UU. (2019_.
+- ⚙️ -2nd International workshop on hydrologic and hydrogeochemical processes in inter-montane Basins. Texas A&M University, College Station, Texas, EE. UU. (2019).
 
 """
 )
