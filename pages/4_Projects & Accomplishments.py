@@ -50,14 +50,6 @@ st.write("---")
 for project, link in PROJECTS.items():
     st.write(f"[{project}]({link})")
 
-# --- Accomplishments ---
-"""
-st.write('\n')
-st.subheader("Accomplishments")
-st.write("---")
-for project, link in ACHIVEMENTS.items():
-    st.write(f"[{project}]({link})")
-"""
 # --- ACCOMPLISHMENTS SECTION ---
 st.write('\n')
 st.subheader("Accomplishments")
