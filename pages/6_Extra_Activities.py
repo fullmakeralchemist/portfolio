@@ -23,8 +23,8 @@ st.set_page_config(page_title=PAGE_TITLE, page_icon=PAGE_ICON)
 
 # Achievements mapped to PDF filenames
 WORKSHOPS = {
-    "🏆 Developed and implemented workshop for Science Clubs International to teach AI as a tool for sustainable development with Python.": "certificates/TOEFL.pdf",
-    "🏆 Electronics with art workshop for kids at OSHWDem by Bricolabs (Spain)": "certificates/TOEFL.pdf",
+    "🏆 Developed and implemented workshop for Science Clubs International to teach AI as a tool for sustainable development with Python.": "certificates/diploma22272SCI-Edition-2022.pdf",
+    "🏆 Electronics with art workshop for kids at OSHWDem by Bricolabs (Spain)": "certificates/certificados oshwdem 2019Riegoautomatico.pdf",
     #"🏆 Python Advanced Bootcamp": "assets/CV.pdf",
     #"🏆 Data Science Bootcamp": "assets/CV.pdf",
     #"🏆 Data Science Bootcamp": "assets/CV.pdf",
