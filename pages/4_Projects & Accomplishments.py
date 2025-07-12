@@ -32,7 +32,7 @@ ACHIVEMENTS = {
     "🏆 Winner of the TensorFlow Microcontoller Challenge, with ML movement model for Mapping with dance Movements. Google (2021)": "https://blog.tensorflow.org/2021/10/announcing-winners-of-tensorflow-lite.html",
     "🏆 Data Camp Portofolio Challenge (2023)": "https://www.instagram.com/datacamp/p/CyV-P8vtYdZ/?img_index=2",
     "🏆 1st place UBSA Human Excellence and Social Responsibility award. Guanajuato, Mexico (2018)": "https://www.ugto.mx/noticias/noticias/14255-fomentan-responsabilidad-social-de-estudiantes-de-la-ug-con-el-premio-ubsa",
-    "🏆 Municipal youth award of the government of the city of Guanajuato. Guanajuato, Mexico (2018).": "",
+    "🏆 Municipal youth award of the government of the city of Guanajuato. Guanajuato, Mexico (2018).": "certificates/municipal.pdf",
     #"🏆 Data Insights and Real-Time Predictive Analytics with Streamlit": "https://github.com/fullmakeralchemist/weather_prediction",
     #"🏆 MyToolBelt - Custom MS Excel add-in to combine Python & Excel": "https://github.com/fullmakeralchemist/dataengweather",
     #"🏆 MyToolBelt - Custom MS Excel add-in to combine Python & Excel": "https://github.com/fullmakeralchemist/dataengweather",
