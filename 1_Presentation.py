@@ -67,7 +67,7 @@ st.write('\n')
 st.subheader("Experience & Qulifications")
 st.write(
     """
-- ✔️ 4 years of experience extracting actionable insights from data to drive informed business decisions
+- ✔️ 5 years of experience extracting actionable insights from data to drive informed business decisions
 - ✔️ Strong hands on experience and knowledge in AWS, Python SQL and Excel
 - ✔️ Experienced in transforming raw data into actionable insights and impactful dashboards
 - ✔️ Skilled in ETL development and building data engineering solutions using AWS services
