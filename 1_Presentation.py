@@ -5,7 +5,7 @@ from PIL import Image
 # --- PATH SETTINGS ---
 current_dir = Path(__file__).parent if "__file__" in locals() else Path.cwd()
 css_file = current_dir / "styles" / "main.css"
-resume_file = current_dir / "assets" / "CV2025.pdf"
+resume_file = current_dir / "assets" / "resume2026.pdf"
 profile_pic = current_dir / "assets" / "profile-pic.png"
 
 # --- GENERAL SETTINGS ---
@@ -15,7 +15,7 @@ NAME = "Eduardo Padron"
 DESCRIPTION = """
 Data-cloud engineer, assisting enterprises by supporting data-driven decision-making.
 """
-EMAIL = "padrondata@gmail.com"
+EMAIL = "iotalchemist@gmail.com"
 SOCIAL_MEDIA = {
     "Medium blog": "https://medium.com/@fulldataalchemist",
     "LinkedIn": "www.linkedin.com/in/padrondata", ##cambiar
